@@ -20,14 +20,11 @@ Tracks and displays the total number of wins, losses, and ties.
 Supports playing multiple rounds.
 
 How to Compile and Run
-To compile and run this project, you will need a C++ like g++.
+To compile and run this project, you will need a C++ like compiler like amd g++.
 
 Save the Code: Save the provided C++ code into a file named main.cpp.
 
 Compile the Code: Use the following command to compile the program:
 
-g++ main.cpp -o final_project
+g++ main.cpp -o new_final_project
 
-Run the Executable: Once compiled, you can run the program with this command:
-
-./final_project
